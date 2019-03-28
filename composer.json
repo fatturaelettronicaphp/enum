@@ -1,11 +1,10 @@
 {
-    "name": "spatie/enum",
+    "name": "fatturaelettronicaphp/enum",
     "description": "PHP Enums",
     "keywords": [
-        "spatie",
         "enum"
     ],
-    "homepage": "https://github.com/spatie/enum",
+    "homepage": "https://github.com/fatturaelettronicaphp/enum",
     "license": "MIT",
     "authors": [
         {
