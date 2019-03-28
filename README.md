@@ -5,7 +5,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/fatturaelettronicaphp/enum.svg?style=flat-square)](https://packagist.org/packages/fatturaelettronicaphp/enum)
 
 
-** THIS PACKAGE IS A FORK OF [Spatie/Enum](https://github.com/spatie/enum) to allow for PHP 7.1 support.**
+**THIS PACKAGE IS A FORK OF [Spatie/Enum](https://github.com/spatie/enum) to allow for PHP 7.1 support.**
 
 
 This package offers strongly typed enums in PHP. We don't use a simple "value" representation, so you're always working with the enum object. This allows for proper autocompletion and refactoring in IDEs.
